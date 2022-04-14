@@ -1,6 +1,7 @@
- -   👋 Hi, I’m @depihightech
+-   👋 Hi, I’m @depihightech
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning  le HTML CSS JAVASCRIPT REACT PHP SYNPHONIE  je prépare le diplome full stceck option PHP SYNPHONIE
+- 🌱 I’m currently learning  le HTML CSS JAVASCRIPT REACT PHP SYNPHONIE  je prépare le diplome full stcack option PHP SYNPHONIE
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
